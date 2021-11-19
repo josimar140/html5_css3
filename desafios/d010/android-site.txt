@@ -1,4 +1,4 @@
-[SITE]
+[ANDROID-SITE]
 
 Curiosidades de Tecnologia
 
