@@ -28,8 +28,7 @@ header {
 
 header > h1 {
     padding-top: 50px;
-    font-family: var(--fonte2);
-    font-size: 10vw; /*É um recurso */
+    font-family: var(--fonte2);    
     font-variant: small-caps;
 }
 
@@ -48,8 +47,7 @@ header a:hover, footer a:hover {
 }
 
 section {
-    font-family: var(--fonte3);
-    font-size: 3.5vw; /*É um recurso*/
+    font-family: var(--fonte3);    
     line-height: 2em;
     padding-top: 10vh;
     padding-bottom: 10vh;
@@ -64,8 +62,7 @@ section.normal {
 section.imagem {
     background-color: chocolate;
     color: white;
-    display: inline-block; /*É um recurso*/
-    padding: 5px; /*É um recurso*/
+    
 }
 
 section.imagem > p {
